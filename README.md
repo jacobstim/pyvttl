@@ -2,6 +2,8 @@
 # pyvttl
 Python Wrapper for VTTL API, as documented [in the TabT pages](https://api.frenoy.net/group__TabTAPIfunctions.html). Please refer to these pages to interpret the results from each method described below.
 
+Installation: ```pip install pyvttl```
+
 ## VttlApi Methods
 
 ### Initialization
